@@ -19,4 +19,4 @@ Follow the below steps to add the extension to your Google Chrome browser:
 
 5. Now click on **Load unpacked** button on the top left and select the extracted folder
 
-6. You are all-set now, head over to [[sellercentral.amazon.com](https://sellercentral.amazon.com/)](https://sellercentral.amazon.com/) and go to some listing page and click "Get Code" button at top right!
+6. You are all-set now, head over to <https://sellercentral.amazon.com> and go to some listing page and click "Get Code" button at top right!
