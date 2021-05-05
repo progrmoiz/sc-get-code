@@ -1,7 +1,9 @@
+
 # Seller central listing get code
 
+This extension is a part of Amazon Toolkit web application, but can be use standalone. After installing this extension it will add "Get Code" button to the top right of your edit listing page in seller central, that will give your information about your listing in JSON format.
 
-> This extension will add button to your seller central listing page to get code for amazon bulk pack generator
+![Screenshot of Sellercentral edit listing page](https://i.ibb.co/JHCTRr4/screenshot-sellercentral.png)
 
 ## Google Chrome Browser
 
